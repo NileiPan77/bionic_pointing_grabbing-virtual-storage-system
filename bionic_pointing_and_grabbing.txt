@@ -1,0 +1,19 @@
+UI Contribution (25). How significant is the UI contribution of the project? Is the project simply an application, or does it have a substantial focus on new UI technology? How novel and creative is the system?
+20
+
+Technical Complexity (25). Projects should represent a substantial implementation effort.
+25
+
+Usability (25). Does the project work as intended?  Are there any serious usability problems or bugs? 
+20
+
+Documentation (5).  Are all the functions sufficiently described in the documentation?
+5
+
+Comments:
+
+The inventory system worked well and was appropriately designed using a bimanual metaphor.
+
+The telekinesis to grab objects felt great.  I would have liked to see a more sophisticated way to select distant objects rather than the laser pointer (the flashlight technique would have been a good choice here.).  Additionally, throwing objects was difficult to control, and this would have been an opportunity to introduce another spatial method to more accurately indicate the target.  Also, it did not appear to be possible to bring an object towards me and then throw it in one action.
+
+Additionally, the project would have also benefited from a virtual environment that had an explicit goal for grabbing and throwing objects (for example, a game).
